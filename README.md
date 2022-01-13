@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @01Destiny01
-- 👀 I’m interested in  C++ and python stuffs also
-- 🌱 I’m currently learning c ++
-- 💞️ I’m looking to collaborate with people want share and learn
+- 👋 Hi, I’m Miguel Eduardo
+- 👀 I’m interested in Java and After Effects stuffs also
+- 🌱 I’m currently learning Java
 - 📫 How to reach me ...
 
 <!---
