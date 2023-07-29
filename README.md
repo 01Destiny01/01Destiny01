@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Miguel Eduardo
-- 👀 I’m interested in Java and After Effects stuffs also
-- 🌱 I’m currently learning Java
+- 👀 I’m a junior developer Java and Kotlin 
+
 
 
 <p align="left">
