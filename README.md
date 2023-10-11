@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Miguel Eduardo
-- 👀 I’m a junior developer Java and Kotlin 
-
+- 👀 I’m a junior developer
+- Java
+- Kotlin 
+- PhP 🐘
 
 
 <p align="left">
