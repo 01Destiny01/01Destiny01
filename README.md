@@ -3,7 +3,7 @@
 - Java
 - Kotlin 
 - PhP 🐘[laravel]
-- Getting started Ts [Angular]
+- Angular
 
 
 <p align="left">
